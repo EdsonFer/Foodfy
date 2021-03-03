@@ -1,6 +1,5 @@
 <h1 align="center">Foodfy</h1>
 
-<img src="https://i.ibb.co/jzV8pD4/Capturar.png" alt="foodfy">
 
 # Descrição do Projeto
 
