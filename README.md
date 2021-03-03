@@ -7,6 +7,6 @@
 Site desenvolvido com o intuito de colocar em pratica Html, CSS, FlexBox.
 
 
-# Que tal uma olhadinha no Projeto
+# Que tal uma olhadinha no Projeto ?
 
 https://learnfoodfy.netlify.app
