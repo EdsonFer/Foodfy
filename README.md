@@ -1,6 +1,6 @@
 <h1 align="center">Foodfy</h1>
 
-<img src="https://ibb.co/G9sdhRP" height="300px" min-width="300px" max-width="300px" align="right" alt="Code">
+<img src="https://i.ibb.co/jzV8pD4/Capturar.png" alt="foodfy">
 
 # Descrição do Projeto
 
